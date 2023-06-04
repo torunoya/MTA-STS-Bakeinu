@@ -1,4 +1,4 @@
 version: STSv1
-mode: enforce
+mode: none
 mx: mail.bakeinu.com
 max_age: 86400
